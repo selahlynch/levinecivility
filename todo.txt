@@ -1,4 +1,3 @@
-This application is meant to work with a qualtrics survey study done by Livia Levine.
 
 TODO:
 
